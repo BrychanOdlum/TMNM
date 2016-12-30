@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="TMNM_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/TMNM_jar/TMNM.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/TMNM_jar/TMNM.jar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/TMNM_jar/Yamler-Bungee-2.2.3-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

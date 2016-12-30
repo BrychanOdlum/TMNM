@@ -1,0 +1,25 @@
+name: TMNM
+authors: [Brodlum]
+main: net.totalmine.core.TMNM
+version: 0.9.3
+softdepend: [Vault]
+description: TotalMine Network Manager
+commands:
+  tmnm:
+    usage: /<command>
+    aliases: [tmn, tm, manager]
+  verify:
+    usage: /<command>
+  weather:
+    usage: /<command>
+  fly:
+    usage: /<command>
+  nickname:
+    usage: /<command>
+    aliases: [nick]
+  realname:
+    usage: /<command>
+  feed:
+    usage: /<command>
+  heal:
+    usage: /<command>
